@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../coding_bootcamp/instructor/lessons/20211130/01-Class-Content/01-HTML-Git-CSS/02-Homework/Develop/assets/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project1"
+	}
+}
