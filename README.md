@@ -29,4 +29,4 @@ SHOWS a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![Horiseon Inc.](https://github.com/Invogue01/project1/blob/main/assets/images/Horiseon%20Project.png)
+![](images/Horiseon%20Project.png)
