@@ -1,4 +1,4 @@
-# project1
+# HoriseonProject
 
 ## Client requirements 
 
