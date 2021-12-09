@@ -21,10 +21,11 @@ SHOWS accessible alt attributes
 VIEWING the heading attributes fall in sequential order
 VIEWING the title element
 SHOWS a concise, descriptive title
-
+```
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+```
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+The following image shows the web application's appearance and functionality:
+https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-11-2021-u-c/-/raw/master/lessons/week01/session03/01-Class-Content/01-HTML-Git-CSS/02-Homework/Assets/01-html-css-git-homework-demo.png
