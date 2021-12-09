@@ -23,7 +23,7 @@ VIEWING the title element
 SHOWS a concise, descriptive title
 ```
 ## Website Link
-![url link](https://invogue01.github.io/HoriseonProject/)
+[https://invogue01.github.io/HoriseonProject/]()
 
 ## Mock-Up
 
