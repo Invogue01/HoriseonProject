@@ -28,4 +28,5 @@ SHOWS a concise, descriptive title
 ```
 
 The following image shows the web application's appearance and functionality:
-https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-11-2021-u-c/-/raw/master/lessons/week01/session03/01-Class-Content/01-HTML-Git-CSS/02-Homework/Assets/01-html-css-git-homework-demo.png
+
+Homework1.png
