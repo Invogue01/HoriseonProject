@@ -30,3 +30,4 @@ SHOWS a concise, descriptive title
 The following image shows the web application's appearance and functionality:
 
 ![<img  src="images/HoriseonProject.png">] (images/HoriseonProject.png)
+
