@@ -24,6 +24,15 @@ h1 {
 .seo {
   color: #d9dcd6;
 }
+/* Main website image */
+.hero {
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-position: center;
+}
 /* Navigation, text hyperlink styling */
 nav {
   padding-top: 15px;
@@ -50,14 +59,49 @@ a {
 p {
   font-size: 16px;
 }
-/* Main website image */
-.hero {
-  height: 800px;
-  width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
+/* Article blue box styling */
+.search-engine-optimization {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+.online-reputation-management {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+.social-media-marketing {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+/* Article element -> sections img */
+.search-engine-optimization img {
+  max-height: 200px;
+}
+
+.online-reputation-management img {
+  max-height: 200px;
+}
+
+.social-media-marketing img {
+  max-height: 200px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 /* Article -> Section images position */
 .float-left {
@@ -117,51 +161,6 @@ p {
 h3 {
   margin-bottom: 10px;
   text-align: center;
-}
-
-/* Article blue box styling */
-.search-engine-optimization {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-/* Article element -> sections img */
-.search-engine-optimization img {
-  max-height: 200px;
-}
-
-.online-reputation-management img {
-  max-height: 200px;
-}
-
-.social-media-marketing img {
-  max-height: 200px;
-}
-
-h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 /* Footer styling */
 .footer {
