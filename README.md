@@ -29,4 +29,4 @@ SHOWS a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-/Users/andreamac/project1/assets/images/Horiseon Project.png
+![Horiseon] (Horiseon_Project.png)
