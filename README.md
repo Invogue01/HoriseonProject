@@ -29,7 +29,4 @@ SHOWS a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-<p align="center">
-  <img src="images/Horiseon_Project.png" width="350" title="hover text">
-  <img src="images/Horiseon_Project.png" width="350" alt="Entire Website image">
-</p>
+https://github.com/Invogue01/project1/blob/main/assets/images/Horiseon%20Project.png
