@@ -131,12 +131,7 @@ h2 {
   background-color: #2589bd;
 }
 /* Aside -> Sections styling */
-.benefit-lead {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-lead.benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
